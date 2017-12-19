@@ -2298,6 +2298,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 
 .site-footer {
 	border-top: 1px solid #eee;
+	background-color: #003199;
 }
 
 .site-footer .wrap {
@@ -2363,7 +2364,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 }
 
 .site-info a {
-	color: #666;
+	color: #fff;
 }
 
 .site-info .sep {
